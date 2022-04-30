@@ -245,7 +245,7 @@ form
     display: grid;
     position: relative;
     font-size: 180%;
-    padding: 20px 20px 10px 20px;
+    padding: 20px;
 }
 .name label,.username label,.password label,.email label{
     color: white;
@@ -269,7 +269,7 @@ form
  button{
     width: 80%;
     height: 150px;
-    margin-top: 50px;
+    margin: 50px 0 20px 0;
     border: none;
     background-color: hotpink;
     border-radius: 6px;
