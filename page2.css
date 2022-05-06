@@ -65,6 +65,7 @@ body{
     }
     .sandbox:hover{
         left: -50px;
+        transition: 300ms ease;
     }
     .prod-all{
         display: grid;
