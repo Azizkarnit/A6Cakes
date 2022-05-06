@@ -179,6 +179,9 @@ h2{
     }
 }
 @media screen and (max-width:990px) {
+    .container{
+        font-family: Consolas;
+    }
     .sandbox{
         display: none;
     }
@@ -207,6 +210,12 @@ h2{
         width: 70%;
         left: 15%;
         font-size: 200%;
+    }
+    ol{
+        position: relative;
+        width: 50%;
+        left: 25%;
+        font-size: 120%;
     }
     li{
         margin: 10px;
