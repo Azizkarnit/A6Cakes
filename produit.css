@@ -187,17 +187,17 @@ h2{
     }
     .jump{
         position: relative;
-        width: 28%;
+        width: 40%;
         height: auto;
         background-color: red;
-        left: 70%;
+        left: 60%;
         margin-bottom: 20px;
         border-radius: 50px;
     }
     .jump p{
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: white;
-        font-size: 150%;
+        font-size: 1.5em;
         font-weight: 700;
         padding: 10px;
     }
